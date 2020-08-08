@@ -6,7 +6,7 @@
 
 > A coder who is passionate about web technologies and open source.
 
-![](https://img.shields.io/badge/-JavaScript-e5cd0c?style=flat-square&logo=JavaScript&labelColor=f7df1e&logoColor=000) ![](https://img.shields.io/badge/-CSS3-1572b6?style=flat-square&logo=CSS3&labelColor=1572b6) ![](https://img.shields.io/badge/-Stylus-333?style=flat-square&logo=Stylus&logoColor=fff) ![](https://img.shields.io/badge/-HTML5-e34f26?style=flat-square&logo=HTML5&logoColor=fff) ![](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=fff)
+![](https://img.shields.io/badge/-Objective--C-2196f3?style=flat-square) ![](https://img.shields.io/badge/-Swift-333?style=flat-square&logo=Swift) ![](https://img.shields.io/badge/-HTML5-e34f26?style=flat-square&logo=HTML5&logoColor=fff) ![](https://img.shields.io/badge/-CSS3-1572b6?style=flat-square&logo=CSS3&labelColor=1572b6) ![](https://img.shields.io/badge/-Stylus-333?style=flat-square&logo=Stylus&logoColor=fff) ![](https://img.shields.io/badge/-JavaScript-e5cd0c?style=flat-square&logo=JavaScript&labelColor=f7df1e&logoColor=000)
 
 Currently I am a [@volantis-x](https://github.com/volantis-x) core team member:
 
