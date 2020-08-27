@@ -6,7 +6,7 @@
 
 > A coder committed to creating perfect sdk.
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=xaoxuu&hide=html)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=xaoxuu&hide=html&hide_border=true)
 
 Currently I am a [@volantis-x](https://github.com/volantis-x) core team member:
 
