@@ -1,13 +1,9 @@
 
 # Mr. X
 
-<a href="https://github.com/xaoxuu/hexo-theme-stellar">
-  <img src="https://github-readme-stats.xaoxuu.com/api/pin/?username=xaoxuu&repo=hexo-theme-stellar&show_owner=true" />
+<a href="https://xaoxuu.com">
+  <img src="https://bu.dusays.com/2022/10/23/63542895cfd29.png" />
 </a>
-<a href="https://github.com/volantis-x/hexo-theme-volantis">
-  <img src="https://github-readme-stats.xaoxuu.com/api/pin/?username=volantis-x&repo=hexo-theme-volantis&show_owner=true" />
-</a>
-
 <br>
 
 ----
