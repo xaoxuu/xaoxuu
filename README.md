@@ -6,3 +6,14 @@
 - [预埋了两年半的数据，现在终于用上了](https://xaoxuu.com/blog/20250604/)
 - [感谢 AI，动态友链获重磅升级！](https://xaoxuu.com/blog/20250602/)
 <!-- BLOG-POST-LIST:END -->
+
+## sitemap
+
+- https://xaox.cc
+
+## 镜像站
+
+- https://xaoxuu.vercel.app
+- https://xaoxuu.netlify.app
+- https://xaoxuu.github.io
+- https://xaoxuu.pages.dev
