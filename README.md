@@ -1,3 +1,5 @@
+[![](https://res.xaox.cc/posts/20250627180133990.jpg-hd)](https://xaoxuu.com)
+
 ## 最近博文更新
 <!-- BLOG-POST-LIST:START -->
 - [梦境：寄生之种与崩塌的时空](https://xaoxuu.com/blog/20250616/)
