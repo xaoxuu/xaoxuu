@@ -1,4 +1,4 @@
-[![](https://res.xaox.cc/posts/20250627180133990.jpg-hd)](https://xaoxuu.com)
+[![](https://cdn.jsdelivr.net/gh/cdn-x/xaoxuu@main/banner/20250630.webp)](https://xaoxuu.com)
 
 ## 最近博文更新
 <!-- BLOG-POST-LIST:START -->
