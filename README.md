@@ -2,11 +2,11 @@
 
 ## 最近博文更新
 <!-- BLOG-POST-LIST:START -->
+- [梦境：无法定格的偶遇](https://xaoxuu.com/blog/20260801/)
 - [连续两个晚上做梦笑醒](https://xaoxuu.com/blog/20260226/)
 - [2025年度OKR复盘](https://xaoxuu.com/blog/20260116/)
 - [在混乱中建立秩序](https://xaoxuu.com/blog/20251013/)
 - [关于本站备用站点的紧急通知](https://xaoxuu.com/blog/20250713/)
-- [适合静态博客的 Nginx 安全性配置](https://xaoxuu.com/blog/20250706/)
 <!-- BLOG-POST-LIST:END -->
 
 ## sitemap
