@@ -13,6 +13,10 @@
 
 - https://xaox.cc
 
+## 站点监控
+
+- https://stats.uptimerobot.com/41wwke3PWC
+
 ## 镜像站
 
 - https://xaoxuu.vercel.app
