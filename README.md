@@ -2,11 +2,11 @@
 
 ## 最近博文更新
 <!-- BLOG-POST-LIST:START -->
+- [Stellar 为什么没能进入 Hexo 主题头部](https://xaoxuu.com/blog/20260815/)
 - [梦境：无法定格的偶遇](https://xaoxuu.com/blog/20260801/)
 - [连续两个晚上做梦笑醒](https://xaoxuu.com/blog/20260226/)
 - [2025年度OKR复盘](https://xaoxuu.com/blog/20260116/)
 - [在混乱中建立秩序](https://xaoxuu.com/blog/20251013/)
-- [关于本站备用站点的紧急通知](https://xaoxuu.com/blog/20250713/)
 <!-- BLOG-POST-LIST:END -->
 
 ## sitemap
