@@ -5,8 +5,8 @@
 - [Stellar 为什么没能进入 Hexo 主题头部](https://xaoxuu.com/blog/20260815/)
 - [梦境：无法定格的偶遇](https://xaoxuu.com/blog/20260801/)
 - [连续两个晚上做梦笑醒](https://xaoxuu.com/blog/20260226/)
-- [2025年度OKR复盘](https://xaoxuu.com/blog/20260116/)
-- [在混乱中建立秩序](https://xaoxuu.com/blog/20251013/)
+- [2025 年度 OKR 复盘](https://xaoxuu.com/blog/20260116/)
+- [在混乱中建立秩序：Stellar 产品设计与工程重构复盘](https://xaoxuu.com/blog/20251013/)
 <!-- BLOG-POST-LIST:END -->
 
 ## sitemap
