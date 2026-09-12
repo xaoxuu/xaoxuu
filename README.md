@@ -2,7 +2,7 @@
 
 ## 最近博文更新
 <!-- BLOG-POST-LIST:START -->
-- [Stellar 为什么没能进入 Hexo 主题头部](https://xaoxuu.com/blog/20260815/)
+- [Stellar 为什么没能火起来](https://xaoxuu.com/blog/20260815/)
 - [梦境：无法定格的偶遇](https://xaoxuu.com/blog/20260801/)
 - [连续两个晚上做梦笑醒](https://xaoxuu.com/blog/20260226/)
 - [2025 年度 OKR 复盘](https://xaoxuu.com/blog/20260116/)
